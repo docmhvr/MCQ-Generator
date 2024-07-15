@@ -4,7 +4,7 @@ import traceback
 import pandas as pd
 from dotenv import load_dotenv
 from mcqgenrator.utils import read_file,get_table_data
-from mcqgenrator.logger import logging
+from src.mcqgenrator.logger import logging
 
 #imporing necessary packages packages from langchain
 from langchain.chat_models import ChatOpenAI
