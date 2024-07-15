@@ -1,0 +1,1 @@
+# File for keeping logs and the loggin object
